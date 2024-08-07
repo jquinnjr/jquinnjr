@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jquinnjr&label=Profile%20views&color=0e75b6&style=flat" alt="jquinnjr" /> </p>
 
 - 📫 How to reach me **jquinnjr@gmail.com**
+- University of Washington (BA) and Georgetown University (MA)
+- Currently live in the suburbs of Phoenix, Arizona
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
